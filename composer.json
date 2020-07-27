@@ -1,0 +1,7 @@
+{
+    "require": {
+        "fukuball/jieba-php": "^0.33.0",
+        "catfan/medoo": "^1.7",
+        "predis/predis": "^1.1"
+    }
+}
